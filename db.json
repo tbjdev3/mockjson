@@ -1,0 +1,94 @@
+{
+  "entrevista": {
+    "competencias": [
+      {
+        "nombre": "Trabajo en equipo",
+        "requerido": true
+      },
+      {
+        "nombre": "Resolución de conflictos",
+        "requerido": true
+      },
+      {
+        "nombre": "Comunicación efectiva",
+        "requerido": false
+      }
+    ],
+    "requisitos": [
+      {
+        "nombre": "Experiencia en retail",
+        "excluyente": true
+      },
+      {
+        "nombre": "Disponibilidad para turnos rotativos",
+        "excluyente": false
+      }
+    ],
+    "topicos": [
+      {
+        "nombre": "Motivación e interés por el cargo",
+        "incluido": true,
+        "preguntas": [
+          "¿Qué te motivó a postular a este cargo?"
+        ]
+      },
+      {
+        "nombre": "Experiencia general",
+        "incluido": true,
+        "preguntas": [
+          "Cuéntanos sobre tu experiencia previa relacionada con este tipo de cargo."
+        ]
+      },
+      {
+        "nombre": "Fortalezas y debilidades",
+        "incluido": true,
+        "preguntas": [
+          "¿Cuáles consideras que son tus principales fortalezas y debilidades?"
+        ]
+      },
+      {
+        "nombre": "Evaluación de competencias",
+        "incluido": true,
+        "preguntas": [
+          "Describe una situación donde hayas aplicado una competencia clave."
+        ]
+      },
+      {
+        "nombre": "Condiciones y expectativas",
+        "incluido": false,
+        "preguntas": [
+          "¿Cuáles son tus expectativas de renta y disponibilidad?"
+        ]
+      },
+      {
+        "nombre": "Disponibilidad y requisitos",
+        "incluido": false,
+        "preguntas": [
+          "¿Cumples con los requisitos necesarios para el cargo?"
+        ]
+      }
+    ]
+  },
+  "oferta": {
+    "cargo": "Ingeniero Informático para el área de Proyectos/ Jefe de Proyectos",
+    "nombreEmpresa": null,
+    "descripcion": "<p>Importante empresa de comercio electrónico requiere Ingeniero Informático para el área de Proyectos, para liderar acciones destinadas al diseño, construcción y provisión de servicios de facturación electrónica, portales de compra, y otros ERP con el propósito de cubrir adecuadamente los requerimientos de nuestros clientes.</p><p></p><p>Responsabilidades</p><ul><li><p>Liderar proyectos tecnológicos, asegurando cumplimiento de plazos, calidad y alcance.</p></li><li><p>Coordinar equipos multidisciplinarios, fomentando la colaboración y el logro de objetivos.</p></li><li><p>Gestionar riesgos y proponer planes de mitigación.</p></li><li><p>Facilitar la comunicación entre áreas técnicas y de negocio.</p></li><li><p>Gestionar conflictos y tomar decisiones oportunas para asegurar la continuidad y productividad del proyecto.</p></li><li><p>Participar activamente en la identificación y diseño de soluciones tecnológicas, realizando análisis de transacciones, revisión de código y ejecución que aseguren la correcta aplicación de los requerimientos funcionales y técnicos, garantizando la calidad y eficiencia de los proyectos implementados</p></li></ul><p>Requisitos</p><ul><li><p>Título en Ingeniería Informática o carrera afín (mínimo 8 semestres).</p></li><li><p>Experiencia mínima de 3 años en gestión de proyectos TI.</p></li><li><p>Habilidades destacadas de comunicación y liderazgo.</p></li></ul><p>Conocimientos Técnicos</p><ul><li><p>Consultas y análisis en bases de datos (Transact-SQL).</p></li><li><p>Arquitectura de integración: Web Services y APIs.</p></li><li><p>Manejo de XSL.</p></li><li><p>Deseable experiencia en gestión de proyectos con componentes B2B o Facturación Electrónica.</p></li><li><p>Conocimiento en metodologías de gestión de proyectos (tradicionales y/o ágiles).</p></li></ul><p> </p>",
+    "comuna": "Santiago",
+    "sueldo": 2000000,
+    "requisitos": "<p>Requisitos</p><ul><li><p>Título en Ingeniería Informática o carrera afín (mínimo 8 semestres).</p></li><li><p>Experiencia mínima de 3 años en gestión de proyectos TI.</p></li><li><p>Habilidades destacadas de comunicación y liderazgo.</p></li></ul><p>Conocimientos Técnicos</p><ul><li><p>Consultas y análisis en bases de datos (Transact-SQL).</p></li><li><p>Arquitectur</p></li></ul>",
+    "aniosExperiencia": {
+      "operador": "Desde",
+      "anios": 3
+    },
+    "estudioMinimo": {
+      "nivelAcademico": "Universitaria",
+      "situacionAcademica": "Graduado"
+    },
+    "competencias": [
+      "Gestión De La Información",
+      "Análisis De Información",
+      "Bioinformática",
+      "Tecnologías De La Información"
+    ]
+  }
+}
